@@ -14,5 +14,5 @@ Stories Card Slider</p>
 <ul>
   <li>React JS</li>
   <li>Redux Toolkit</li>
-  t<li>Tailwind css</li>
+  <li>Tailwind css</li>
 </ul>
