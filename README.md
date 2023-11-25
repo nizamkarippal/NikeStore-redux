@@ -1,10 +1,11 @@
 # React + Vite
+<h1>NIKE STORE</h1>
+. [view the App] (https://nike-store-cc4256.netlify.app/)
+  
+<p>A fully responsive clone website of Nike-store build using React JS, Redux Toolkit and tailwind css.<p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-- view this site nike-store-cc4256.netlify.app (copy the link)
-- 
+<h3>Features</h3>
+<p></p>Responsive Design
+The website is fully responsive, providing a seamless experience across various devices and screen sizes.
+Stories Card Slider</p>
